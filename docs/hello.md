@@ -4,7 +4,7 @@ This wiki is the home of additional information for the Starbase 777 server. If 
 
 Starbase 777 is a text-based roleplay server set aboard a Starfleet station in the year 2415. Roleplayers have the opportunity to create up to fifteen characters from different walks of life, highlight their character's skills in events, and partake in day-to-day slice of life roleplay. We have active staff teams on hand to not only help you create your character, but also to run personal plots to encourage your character's development. We'd love to see you on board!
 
-![777 logo](/img/777_2024.png)
+![777 logo](/img/777_2024.png){: style="float: left"}
 
 ### Navigation
 
